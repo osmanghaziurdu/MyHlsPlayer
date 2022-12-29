@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "613862874568",
+    "project_id": "myhlsapp",
+    "storage_bucket": "myhlsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613862874568:android:907f4c482dd7d2bb0ff4fd",
+        "android_client_info": {
+          "package_name": "com.example.myhlsplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613862874568-9am2eqg6rumqtj9lhjka31m2tqekoe1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myhlsplayer",
+            "certificate_hash": "bf78010d2fca957c8e9747da3c97ff5b98e3bfe1"
+          }
+        },
+        {
+          "client_id": "613862874568-eb9ud7u66g0615hr78sggg5j429rps35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0rlwy-MPlduQmxjJEa7Dsqk6fkjwcTRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613862874568-eb9ud7u66g0615hr78sggg5j429rps35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
